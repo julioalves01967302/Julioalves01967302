@@ -8,7 +8,6 @@ me chamo Julio Alves tenho 20 anos e sou natural de Bonito-PE. concluir o ensino
 ---
 
 ### 🤖 linguagens e tecnologia
-<br/>
 <img
     aling="left"
     alt="HTML"
