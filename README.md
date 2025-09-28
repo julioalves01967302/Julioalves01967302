@@ -14,13 +14,15 @@ me chamo Julio Alves tenho 20 anos e sou natural de Bonito-PE. concluir o ensino
     alt="HTML"
     width="30px"
     style="padding-rigth: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
 <img
     aling="left"
     alt="HTML"
     width="30px"
     style="padding-rigth: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    />
 
 <br/>
 
