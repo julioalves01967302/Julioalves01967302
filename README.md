@@ -29,13 +29,13 @@ me chamo Julio Alves tenho 20 anos e sou natural de Bonito-PE. concluir o ensino
 
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=julioalves01967302&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=julioalves01967302&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
+/>
 
 <img 
   align="left"
